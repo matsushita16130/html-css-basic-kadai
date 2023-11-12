@@ -1,0 +1,25 @@
+.decoration{
+    font-family:"Arial", "Meiryo",sans-serif;
+    .font-skyblue{
+        color: skyblue;
+    }
+    .font-pink{
+        color: rgb(255,192,203);
+    }
+    text-align: center;
+}
+.h1-decoration{
+    .font-skyblue{
+        color: skyblue;
+    }
+    .font-pink{
+        color: rgb(255,192,203);
+    }
+    border-bottom: solid 3px rgb(115,115,114);
+    text-align: center;
+    letter-spacing: 1.2em;
+    text-shadow: 1px 1px 2px gray;
+}
+#parent > p{
+    font-weight: bold;
+}
